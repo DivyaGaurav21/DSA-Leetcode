@@ -1,4 +1,4 @@
-package Array.ARRAY;
+package Array.ARRAY.Hard;
 
 //Que :- 1 
 
